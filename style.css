@@ -1,0 +1,15 @@
+.signIn-main{
+    margin: 3% auto 3% auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 350px;
+    height: 275px;
+}
+
+.header{
+    margin: 10px auto 10px auto;
+    position: relative;
+    left: 350px;
+    color: #563d7c;
+}
